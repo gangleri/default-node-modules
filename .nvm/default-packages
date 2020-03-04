@@ -3,7 +3,7 @@
 @vue/cli
 @vue/devtools
 @aws-amplify/cli
-neovim
+@nestjs/cli
 npm
 neovim
 typescript
